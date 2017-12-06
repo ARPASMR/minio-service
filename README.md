@@ -72,7 +72,10 @@ server_side_encryption = False
 signature_v2 = False
 use_https = False
 ```
-###
+
+### Mount as FUSE filesystem (mount a folder)
+
+We are using goofys: https://github.com/kahing/goofys
 
 Example:
 
